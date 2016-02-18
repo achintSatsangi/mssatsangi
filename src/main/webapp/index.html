@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>MS Satsangi</title>
+<meta name="description" content="">
+<meta name="author" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link href='http://fonts.googleapis.com/css?family=Prata' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/skeleton.css">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="css/jquery.maximage.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="css/res-css.css" type="text/css" media="screen"/>
+<link rel="shortcut icon" href="images/favicon.ico">
+<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/superfish.js"></script>
+<script type="text/javascript" src="js/jquery.easing.min.js"></script>
+<script type="text/javascript" src="js/supersized.3.2.7.min.js"></script>
+<script type="text/javascript" src="js/supersized.shutter.js"></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript">
+	jQuery(function($){		
+		$.supersized({	
+			autoplay				:	1,
+			random					:	1,
+			slide_interval          :   5000,
+			transition              :   1, 			
+			transition_speed		:	700,		
+			slide_links				:	'blank',
+			slides 					:  	[			
+												{image : 'images/sz1.jpg'},
+												{image : 'images/sz2.jpg'},												
+												{image : 'images/sz3.jpg'},
+										]			
+		});
+	});    
+</script>
+<!-- PrettyPhoto
+	================================================== -->
+<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css">
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="js/modernizr.js"></script>
+<script type="text/javascript" src="js/jquery.innerfade.js"></script>
+<script type="text/javascript">
+	$(document).ready(
+		function(){
+			$('ul#portfolio').innerfade({
+			animationtype: 'slide',
+			speed: 1000,
+			timeout: 5500,
+			type: 'sequence',
+			containerheight: '130px'
+		});
+	});
+</script>
+</head>
+<body>
+<div class="bannerSlides"> </div>
+<div class="container-outer">
+  <div class="container">
+    <header id="header" class="sixteen columns">
+      <div class="row transparent">
+        <div class="four columns logo alpha">
+          <h1 id="logo"><a href="index.html"><img src="images/logo.png" alt="" /></a></h1>
+        </div>
+        <div class="twelve columns omega">
+          <nav id="navigation">
+            <ul class="nav group">
+              <li> <a href="index.html">Profile </a>
+                <ul>
+                  <li><a href="about.html">About M.S. Satsangi</a></li>
+                  <li><a href="about-mssa.html">MSS+A</a></li>
+                  <li><a href="mssa-team.html">Team</a></li>
+                </ul>
+              </li>
+              <li> <a href="project.html">Projects</a> </li>
+              <li> <a href="services.html">Services</a> </li>
+              <li> <a href="contact-us.html">Contact</a> </li>
+              <li> <a href="#" class="fa fa-facebook"></a> <a href="#" class="fa fa-linkedin"></a> <a href="#" class="fa fa-twitter"></a> </li>
+            </ul>
+          </nav>
+          <!-- /navigation -->
+        </div>
+        <!-- /twelve -->
+      </div>
+      <!-- /row -->
+    </header>
+    <!-- /header -->
+  </div>
+</div>
+<!-- /container -->
+<!--<div id="controls-wrapper" class="load-item">
+  <div id="controls"> <a id="prevslide" class="btn-slider">Previous</a><a id="pauseplay" class="btn-slider">Play</a><a id="nextslide" class="btn-slider">Next</a> </div>
+</div>-->
+<!-- /controls-wrapper -->
+<div class="flex-container">
+  <div class="flexslider">
+    <ul class="slides">
+      <li> <img src="images/sz1.jpg" /> </li>
+      <li> <img src="images/sz2.jpg" /></li>
+      <li> <img src="images/sz3.jpg" /> </li>
+    </ul>
+  </div>
+</div>
+<div class="container-outer-col2">
+  <div class="bannerSlesInr">
+    <ul id="portfolio">
+      <li>Anand Engineering College</li>
+      <li>Medical Institute</li>
+      <li>Sharda University</li>
+    </ul>
+  </div>
+  <div class="clear"></div>
+  <div class="OuterFtrFx">
+    <div id="home-set" class="container mainMidCtr">
+      <div class="sixteen columns">
+        <article class="four columns alpha set"> <img src="images/hthumb1.png" class="scale-with-grid" onClick="location.href='project-detail.html'" /> <a href="project-detail.html">anand inst.</a>
+          <p>AEC Founded at Agra in 1998 under the flagship of Sharda Group</p>
+        </article>
+        <article class="four columns set"> <img src="images/hthumb2.png" class="scale-with-grid" onClick="location.href='project-detail.html'" /> <a href="project-detail.html">sharda Univ.</a>
+          <p>Sharda University is a leading educational institution based out of Greater Noida.</p>
+        </article>
+        <article class="four columns set"> <img src="images/hthumb3.png" class="scale-with-grid" onClick="location.href='about-mssa.html'" /> <a href="about-mssa.html">MSS+A</a>
+          <p>An architecture company having 5 decades of experience.</p>
+        </article>
+        <article class="four columns set"> <img src="images/hthumb4.png" class="scale-with-grid" onClick="location.href='contact-us.html'" /> <a href="contact-us.html">Contact</a>
+          <p>Connect with us for your work and requirements.</p>
+        </article>
+        <article class="four columns set"> <img src="images/hthumb5.png" class="scale-with-grid" onClick="location.href='mssa-team.html'" /> <a href="mssa-team.html">TEAM</a>
+          <p>Meet the team, highly qualified individuals with passion to create.</p>
+        </article>
+        <article class="four columns omega set"> <img src="images/hthumb6.png" class="scale-with-grid" onClick="location.href='services.html'"/> <a href="services.html">Services</a>
+          <p>From building buildings to aesthetics, we provide services in all architecture segments.</p>
+        </article>
+      </div>
+      <!-- /sixteen columns -->
+    </div>
+  </div>
+  <div class="clear"></div>
+  <footer>
+    <div class="container"> <span><a href="index.html">home</a> <a href="contact-us.html">contact</a> <a href="privacy-policy.html">privacy policy</a></span>
+      <p>all Right Reserve. Copyright MSSatsangi.com. Design by <a href="http://webus.in/" target="_blank">Webus.in</a></p>
+    </div>
+  </footer>
+  <div class="clear"></div>
+</div>
+<!-- /container -->
+<script src="js/jquery.flexslider-min.js"></script>
+<script>
+$(document).ready(function () {
+	$('.flexslider').flexslider({
+		animation: 'fade',
+		controlsContainer: '.flexslider'
+	});
+});
+</script>
+</body>
+</html>
