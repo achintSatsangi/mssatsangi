@@ -76,7 +76,7 @@ jQuery(function($){
     $('<option />', {
        'selected': 'selected',
        'value'   : '',
-       'text'    : 'Go to...'
+       'text'    : 'Menu'
     }).appendTo('#navigation select');
 
     // Populate dropdown with menu items
