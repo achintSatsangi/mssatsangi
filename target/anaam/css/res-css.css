@@ -1,4 +1,8 @@
- @media screen and (max-width: 768px) {
+ @media screen and (max-width: 959px) {
+ .flex-container {display:block;}
+ .bannerSlesInr, .bannerSlides, #supersized {display:none;}
+ }
+@media screen and (max-width: 768px) {
  #logo {
  float:left;
  margin-bottom:0;
@@ -222,7 +226,7 @@ footer {
 
 .bannerSlesInr, .bannerSlides, #supersized {display:none;}
 .container-outer {position:relative;}
-.container .sixteen.columns, .container .four.columns {width:100%;}
+.container .sixteen.columns, .container .four.columns {width:100%; margin:0px; padding:0;}
 .flex-container {display:block;}
 #home-set {margin-top:0px; padding-top:0px;}
 }

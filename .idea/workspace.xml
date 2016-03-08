@@ -1,7 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="777e803d-2e2b-4391-9eb1-f2afba5bbf0b" name="Default" comment="" />
+    <list default="true" id="777e803d-2e2b-4391-9eb1-f2afba5bbf0b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam.war" afterPath="$PROJECT_DIR$/target/anaam.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/about-mssa.html" afterPath="$PROJECT_DIR$/src/main/webapp/about-mssa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/about-mssa.html" afterPath="$PROJECT_DIR$/target/anaam/about-mssa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/about.html" afterPath="$PROJECT_DIR$/src/main/webapp/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/about.html" afterPath="$PROJECT_DIR$/target/anaam/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/anand-college-of-engineering.html" afterPath="$PROJECT_DIR$/src/main/webapp/anand-college-of-engineering.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/anand-college-of-engineering.html" afterPath="$PROJECT_DIR$/target/anaam/anand-college-of-engineering.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/anand-insitute-medical-science.html" afterPath="$PROJECT_DIR$/src/main/webapp/anand-insitute-medical-science.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/anand-insitute-medical-science.html" afterPath="$PROJECT_DIR$/target/anaam/anand-insitute-medical-science.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/block-19-temple.html" afterPath="$PROJECT_DIR$/src/main/webapp/block-19-temple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/block-19-temple.html" afterPath="$PROJECT_DIR$/target/anaam/block-19-temple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/contact-us.html" afterPath="$PROJECT_DIR$/src/main/webapp/contact-us.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/contact-us.html" afterPath="$PROJECT_DIR$/target/anaam/contact-us.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/css/easy-responsive-tabs.css" afterPath="$PROJECT_DIR$/target/anaam/css/easy-responsive-tabs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/js/easyResponsiveTabs.js" afterPath="$PROJECT_DIR$/target/anaam/js/easyResponsiveTabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/hospital-research.html" afterPath="$PROJECT_DIR$/src/main/webapp/hospital-research.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/hospital-research.html" afterPath="$PROJECT_DIR$/target/anaam/hospital-research.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/housing-residantial.html" afterPath="$PROJECT_DIR$/src/main/webapp/housing-residantial.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/housing-residantial.html" afterPath="$PROJECT_DIR$/target/anaam/housing-residantial.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/index.html" afterPath="$PROJECT_DIR$/target/anaam/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/institutional-educational.html" afterPath="$PROJECT_DIR$/src/main/webapp/institutional-educational.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/institutional-educational.html" afterPath="$PROJECT_DIR$/target/anaam/institutional-educational.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/js/jquery.bxslider.js" afterPath="$PROJECT_DIR$/target/anaam/js/jquery.bxslider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/js/jquery.cycle.all.js" afterPath="$PROJECT_DIR$/target/anaam/js/jquery.cycle.all.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/js/jquery.easing.min.js" afterPath="$PROJECT_DIR$/target/anaam/js/jquery.easing.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/js/jquery.flexslider-min.js" afterPath="$PROJECT_DIR$/target/anaam/js/jquery.flexslider-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/js/jquery.innerfade.js" afterPath="$PROJECT_DIR$/target/anaam/js/jquery.innerfade.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/js/jquery.mCustomScrollbar.concat.min.js" afterPath="$PROJECT_DIR$/target/anaam/js/jquery.mCustomScrollbar.concat.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/css/jquery.mCustomScrollbar.css" afterPath="$PROJECT_DIR$/target/anaam/css/jquery.mCustomScrollbar.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/js/jquery.maximage.js" afterPath="$PROJECT_DIR$/target/anaam/js/jquery.maximage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/js/jquery.min.js" afterPath="$PROJECT_DIR$/target/anaam/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/js/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/target/anaam/js/jquery.prettyPhoto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/mahaveerji-audi.html" afterPath="$PROJECT_DIR$/src/main/webapp/mahaveerji-audi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/mahaveerji-audi.html" afterPath="$PROJECT_DIR$/target/anaam/mahaveerji-audi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/js/modernizr.js" afterPath="$PROJECT_DIR$/target/anaam/js/modernizr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/mssa-team.html" afterPath="$PROJECT_DIR$/src/main/webapp/mssa-team.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/mssa-team.html" afterPath="$PROJECT_DIR$/target/anaam/mssa-team.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/office-building.html" afterPath="$PROJECT_DIR$/src/main/webapp/office-building.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/office-building.html" afterPath="$PROJECT_DIR$/target/anaam/office-building.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/privacy-policy.html" afterPath="$PROJECT_DIR$/src/main/webapp/privacy-policy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/privacy-policy.html" afterPath="$PROJECT_DIR$/target/anaam/privacy-policy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/project-detail.html" afterPath="$PROJECT_DIR$/src/main/webapp/project-detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/project-detail.html" afterPath="$PROJECT_DIR$/target/anaam/project-detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/project-inner.html" afterPath="$PROJECT_DIR$/src/main/webapp/project-inner.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/project-inner.html" afterPath="$PROJECT_DIR$/target/anaam/project-inner.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/project.html" afterPath="$PROJECT_DIR$/src/main/webapp/project.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/project.html" afterPath="$PROJECT_DIR$/target/anaam/project.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/radhanagar-housing-colony.html" afterPath="$PROJECT_DIR$/src/main/webapp/radhanagar-housing-colony.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/radhanagar-housing-colony.html" afterPath="$PROJECT_DIR$/target/anaam/radhanagar-housing-colony.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/religious-building.html" afterPath="$PROJECT_DIR$/src/main/webapp/religious-building.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/religious-building.html" afterPath="$PROJECT_DIR$/target/anaam/religious-building.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/css/res-css.css" afterPath="$PROJECT_DIR$/target/anaam/css/res-css.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/js/scripts.js" afterPath="$PROJECT_DIR$/target/anaam/js/scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/services.html" afterPath="$PROJECT_DIR$/src/main/webapp/services.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/services.html" afterPath="$PROJECT_DIR$/target/anaam/services.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/sharda-university-greater-noida.html" afterPath="$PROJECT_DIR$/src/main/webapp/sharda-university-greater-noida.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/sharda-university-greater-noida.html" afterPath="$PROJECT_DIR$/target/anaam/sharda-university-greater-noida.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/sharda-university.html" afterPath="$PROJECT_DIR$/src/main/webapp/sharda-university.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/sharda-university.html" afterPath="$PROJECT_DIR$/target/anaam/sharda-university.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/css/skeleton.css" afterPath="$PROJECT_DIR$/target/anaam/css/skeleton.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/soami-nagar.html" afterPath="$PROJECT_DIR$/src/main/webapp/soami-nagar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/soami-nagar.html" afterPath="$PROJECT_DIR$/target/anaam/soami-nagar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/style.css" afterPath="$PROJECT_DIR$/target/anaam/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/js/superfish.js" afterPath="$PROJECT_DIR$/target/anaam/js/superfish.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/js/supersized.3.2.7.min.js" afterPath="$PROJECT_DIR$/target/anaam/js/supersized.3.2.7.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/anaam/js/supersized.shutter.js" afterPath="$PROJECT_DIR$/target/anaam/js/supersized.shutter.js" />
+    </list>
     <ignored path="mssatsangi.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,51 +95,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mssatsangi.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mssatsangi.iml">
+      <file leaf-file-name="radhanagar-housing-colony.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/radhanagar-housing-colony.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-27.875" vertical-offset="1521" max-vertical-offset="2280">
+              <caret line="146" column="9" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Procfile">
+      <file leaf-file-name="religious-building.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/religious-building.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-27.875" vertical-offset="1176" max-vertical-offset="1935">
+              <caret line="123" column="9" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="services.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19340974" vertical-offset="0" max-vertical-offset="698">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            <state vertical-scroll-proportion="-27.875" vertical-offset="2016" max-vertical-offset="2775">
+              <caret line="179" column="9" selection-start-line="179" selection-start-column="9" selection-end-line="179" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <file leaf-file-name="sharda-university.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/sharda-university.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-27.875" vertical-offset="1566" max-vertical-offset="2325">
+              <caret line="149" column="9" selection-start-line="149" selection-start-column="9" selection-end-line="149" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="screen.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/screen.css">
+      <file leaf-file-name="sharda-university-greater-noida.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/sharda-university-greater-noida.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-27.875" vertical-offset="1581" max-vertical-offset="2340">
+              <caret line="150" column="9" selection-start-line="150" selection-start-column="9" selection-end-line="150" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="soami-nagar.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/soami-nagar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-27.875" vertical-offset="1521" max-vertical-offset="2280">
+              <caret line="146" column="9" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/images/logo.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icon-arrow-right-b-128.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/images/icon-arrow-right-b-128.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mssa-profile.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/images/mssa-profile.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.34955752" vertical-offset="1267" max-vertical-offset="3720">
+              <caret line="95" column="65" selection-start-line="95" selection-start-column="65" selection-end-line="95" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -84,8 +194,30 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/webapp/about-mssa.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/anand-college-of-engineering.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/anand-insitute-medical-science.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/block-19-temple.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/contact-us.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/hospital-research.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/housing-residantial.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/institutional-educational.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/mahaveerji-audi.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/mssa-team.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/office-building.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/privacy-policy.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/project.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/project-detail.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/project-inner.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/radhanagar-housing-colony.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/religious-building.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/services.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/sharda-university.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/sharda-university-greater-noida.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/soami-nagar.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/about.html" />
       </list>
     </option>
   </component>
@@ -122,8 +254,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -142,8 +272,64 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mssatsangi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mssatsangi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mssatsangi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mssatsangi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mssatsangi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mssatsangi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -422,15 +608,16 @@
       <workItem from="1453372034439" duration="543000" />
       <workItem from="1455699753114" duration="1770000" />
       <workItem from="1455763737334" duration="1579000" />
+      <workItem from="1457442050185" duration="720000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5545000" />
+    <option name="totallyTimeSpent" value="6265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="820" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -445,10 +632,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3288948" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -459,7 +647,6 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -513,6 +700,46 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mssatsangi.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mssatsangi.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
@@ -603,8 +830,207 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19340974" vertical-offset="0" max-vertical-offset="698">
+        <state vertical-scroll-proportion="-5.4" vertical-offset="0" max-vertical-offset="225">
           <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/about-mssa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1476" max-vertical-offset="2235">
+          <caret line="143" column="9" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/anand-college-of-engineering.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1581" max-vertical-offset="2340">
+          <caret line="150" column="9" selection-start-line="150" selection-start-column="9" selection-end-line="150" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/anand-insitute-medical-science.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1566" max-vertical-offset="2325">
+          <caret line="149" column="9" selection-start-line="149" selection-start-column="9" selection-end-line="149" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/block-19-temple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1521" max-vertical-offset="2280">
+          <caret line="146" column="9" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/contact-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1386" max-vertical-offset="2145">
+          <caret line="137" column="9" selection-start-line="137" selection-start-column="9" selection-end-line="137" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/hospital-research.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1326" max-vertical-offset="2085">
+          <caret line="133" column="9" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/housing-residantial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1221" max-vertical-offset="1980">
+          <caret line="126" column="9" selection-start-line="126" selection-start-column="9" selection-end-line="126" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="2346" max-vertical-offset="3120">
+          <caret line="201" column="9" selection-start-line="201" selection-start-column="9" selection-end-line="201" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/institutional-educational.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.875" vertical-offset="1326" max-vertical-offset="2100">
+          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/mahaveerji-audi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1521" max-vertical-offset="2280">
+          <caret line="146" column="9" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/mssa-team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="3051" max-vertical-offset="3810">
+          <caret line="248" column="9" selection-start-line="248" selection-start-column="9" selection-end-line="248" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/office-building.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1176" max-vertical-offset="1935">
+          <caret line="123" column="9" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/privacy-policy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1146" max-vertical-offset="1905">
+          <caret line="121" column="9" selection-start-line="121" selection-start-column="9" selection-end-line="121" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/project.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1296" max-vertical-offset="2055">
+          <caret line="131" column="9" selection-start-line="131" selection-start-column="9" selection-end-line="131" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/project-detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1596" max-vertical-offset="2355">
+          <caret line="151" column="9" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/project-inner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1371" max-vertical-offset="2130">
+          <caret line="136" column="9" selection-start-line="136" selection-start-column="9" selection-end-line="136" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/radhanagar-housing-colony.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1521" max-vertical-offset="2280">
+          <caret line="146" column="9" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/religious-building.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1176" max-vertical-offset="1935">
+          <caret line="123" column="9" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="2016" max-vertical-offset="2775">
+          <caret line="179" column="9" selection-start-line="179" selection-start-column="9" selection-end-line="179" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/sharda-university.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1566" max-vertical-offset="2325">
+          <caret line="149" column="9" selection-start-line="149" selection-start-column="9" selection-end-line="149" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/sharda-university-greater-noida.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1581" max-vertical-offset="2340">
+          <caret line="150" column="9" selection-start-line="150" selection-start-column="9" selection-end-line="150" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/soami-nagar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.875" vertical-offset="1521" max-vertical-offset="2280">
+          <caret line="146" column="9" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/icon-arrow-right-b-128.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/mssa-profile.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34955752" vertical-offset="1267" max-vertical-offset="3720">
+          <caret line="95" column="65" selection-start-line="95" selection-start-column="65" selection-end-line="95" selection-end-column="65" />
           <folding />
         </state>
       </provider>
